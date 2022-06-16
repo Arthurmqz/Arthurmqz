@@ -9,7 +9,9 @@
 <br>
 
 
-<div class="tenor-gif-embed" data-postid="18238297" data-share-method="host" data-aspect-ratio="1.26984" data-width="100%"><a href="https://tenor.com/view/ninja-turtle-typing-texting-chat-chatting-gif-18238297">Ninja Turtle Typing GIF</a>from <a href="https://tenor.com/search/ninja+turtle-gifs">Ninja Turtle GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+![NinjaTurtleTypingGIF](https://user-images.githubusercontent.com/93051914/173965764-d53371a1-7ccd-419d-80f2-092453d19b5a.gif)
+
+<img data-target="animated-image.replacedImage" alt="NinjaTurtleTypingGIF" class="AnimatedImagePlayer-animatedImage" src="https://user-images.githubusercontent.com/93051914/173965764-d53371a1-7ccd-419d-80f2-092453d19b5a.gif" height="50%" style="display: block; opacity: 1;">
 
 
 <br>
