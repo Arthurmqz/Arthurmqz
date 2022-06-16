@@ -1,15 +1,13 @@
 ### Hey guys 🤟🏽
 
-### i'm Arthur Marques
-
-
+### <p align=right>i'm Arthur Marques </p>
 
 - 👨🏽‍🌾 I’m MSc in agricultural engineering and working in a greenhouse
 - 🔭 I’m currently in career transition to web developer
 - 👯 I’m looking to collaborate on web application
 - 🎸⚔️ Fun fact: I'm a bass player and a barbarian with a collection of dragon heads in Skyrim
 <br>
-<br>
+
 
 ![NinjaTurtleTypingGIF](https://user-images.githubusercontent.com/93051914/173963032-3064cc47-3812-47f7-877b-51029a64d529.gif)
 
@@ -21,7 +19,9 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthurmqz&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arthurmqz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-
+          
+<br>
+          
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="40" height="40"/>
