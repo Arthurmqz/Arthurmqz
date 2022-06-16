@@ -8,9 +8,9 @@
 - 🎸⚔️ Fun fact: I'm a bass player and a barbarian with a collection of dragon heads in Skyrim
 <br>
 
-<div align=center>
-![NinjaTurtleTypingGIF](https://user-images.githubusercontent.com/93051914/173963032-3064cc47-3812-47f7-877b-51029a64d529.gif)
-</div>
+
+![NinjaTurtleTypingGIF align=center](https://user-images.githubusercontent.com/93051914/173963032-3064cc47-3812-47f7-877b-51029a64d529.gif)
+
 
 <br>
 <br>
