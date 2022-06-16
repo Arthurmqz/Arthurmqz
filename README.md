@@ -1,6 +1,6 @@
 <h2>Hey guys 🤟🏽</h2>
 
-### <h3 align=center>i'm Arthur Marques </h3>
+### <h3 align=center>I'm Arthur Marques </h3>
 
 - 👨🏽‍🌾 I’m MSc in agricultural engineering and working in a greenhouse
 - 🔭 I’m currently in career transition to web developer
@@ -8,9 +8,9 @@
 - 🎸⚔️ Fun fact: I'm a bass player and a barbarian with a collection of dragon heads in Skyrim
 <br>
 
-
-<img align=center width=500 src="https://user-images.githubusercontent.com/93051914/173965764-d53371a1-7ccd-419d-80f2-092453d19b5a.gif" />
-
+<p align=center>
+<img  width=500 src="https://user-images.githubusercontent.com/93051914/173965764-d53371a1-7ccd-419d-80f2-092453d19b5a.gif" />
+</p>
 
 
 <br>
