@@ -38,7 +38,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original-wordmark.svg" width="40" height="40"/>
-          
+
+<h2 dir="auto"></h2>
 <br>
 <br>
           
