@@ -1,6 +1,6 @@
-### Hey guys 🤟🏽
+<h2>Hey guys 🤟🏽</h2>
 
-### <p align=center>i'm Arthur Marques </p>
+### <h3 align=center>i'm Arthur Marques </h3>
 
 - 👨🏽‍🌾 I’m MSc in agricultural engineering and working in a greenhouse
 - 🔭 I’m currently in career transition to web developer
@@ -9,7 +9,7 @@
 <br>
 
 
-![NinjaTurtleTypingGIF](https://user-images.githubusercontent.com/93051914/173963032-3064cc47-3812-47f7-877b-51029a64d529.gif)
+<div class="tenor-gif-embed" data-postid="18238297" data-share-method="host" data-aspect-ratio="1.26984" data-width="100%"><a href="https://tenor.com/view/ninja-turtle-typing-texting-chat-chatting-gif-18238297">Ninja Turtle Typing GIF</a>from <a href="https://tenor.com/search/ninja+turtle-gifs">Ninja Turtle GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 
 <br>
