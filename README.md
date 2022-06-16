@@ -5,7 +5,7 @@
 - 👨🏽‍🌾 I’m MSc in agricultural engineering and working in a greenhouse
 - 🔭 I’m currently in career transition to web developer
 - 👯 I’m looking to collaborate on web application
-- 🎸⚔️ Fun fact: I'm a bass player and a barbarian with a collection of dragon heads in Skyrim
+- 🎸⚔️ Fun fact: I'm a bass player and a max lvl barbarian with a collection of dragon heads in Skyrim
 <br>
 
 <p align=center>
