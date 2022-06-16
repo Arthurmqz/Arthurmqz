@@ -1,6 +1,6 @@
 ### Hey guys 🤟🏽
 
-### <p align=right>i'm Arthur Marques </p>
+### <p align=center>i'm Arthur Marques </p>
 
 - 👨🏽‍🌾 I’m MSc in agricultural engineering and working in a greenhouse
 - 🔭 I’m currently in career transition to web developer
