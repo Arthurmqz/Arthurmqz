@@ -9,7 +9,6 @@
 <br>
 
 
-![NinjaTurtleTypingGIF](https://user-images.githubusercontent.com/93051914/173965764-d53371a1-7ccd-419d-80f2-092453d19b5a.gif)
 
 <img data-target="animated-image.replacedImage" alt="NinjaTurtleTypingGIF" class="AnimatedImagePlayer-animatedImage" src="https://user-images.githubusercontent.com/93051914/173965764-d53371a1-7ccd-419d-80f2-092453d19b5a.gif" height="50%" style="display: block; opacity: 1;">
 
