@@ -9,8 +9,9 @@
 - 👯 I’m looking to collaborate on web application
 - 🎸⚔️ Fun fact: I'm a bass player and a barbarian with a collection of dragon heads in Skyrim
 
+<p align="center">
 ![NinjaTurtleTypingGIF](https://user-images.githubusercontent.com/93051914/173963032-3064cc47-3812-47f7-877b-51029a64d529.gif)
-
+</p>
 <div>
 <a href="https://github.com/Arthurmqz">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthurmqz&layout=compact&langs_count=7&theme=dracula"/>
