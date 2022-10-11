@@ -2,9 +2,7 @@
 
 ### <h3 align=center>I'm Arthur Marques </h3>
 
-- 👨🏽‍🌾 I’m MSc in agricultural engineering and working in a greenhouse
-- 🔭 I’m currently in career transition to web developer
-- 👯 I’m looking to collaborate on web application
+- 👨🏽‍🌾 I’m MSc in agricultural engineering and web developer
 - 🎸⚔️ Fun fact: I'm a bass player and a max lvl barbarian with a collection of dragon heads in Skyrim
 <br>
 
@@ -22,7 +20,7 @@
 </div>
           
 <br>
-          
+<div align=center>          
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="40" height="40"/>
@@ -38,7 +36,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original-wordmark.svg" width="40" height="40"/>
-
+</div>
 <h2 dir="auto"></h2>
 <br>
 <br>
