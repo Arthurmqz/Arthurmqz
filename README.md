@@ -2,8 +2,8 @@
 
 ### <h3 align=center>I'm Arthur Marques </h3>
 
-- 👨🏽‍🌾 I’m MSc in agricultural engineering and web developer
-- 🎸⚔️ Fun fact: I'm a bass player and a max lvl barbarian with a collection of dragon heads in Skyrim
+- 👨🏽‍🌾 I’m a front-end developer with a background in agricultural engineering
+- ⚔️ Fun fact: I'm a Warrior player in World of Warcraft - FOR THE HORDE
 <br>
 
 <p align=center>
